@@ -1,0 +1,100 @@
+Rua João Epifânio Pereira, nº 168, Belo Horizonte/MG
+Rua Tataíra, nº 807, Belo Horizonte/MG
+Rua Francisco Joaquim dos Santos, nº 726, Belo Horizonte/MG
+Rua Boa Esperança, nº 268, Belo Horizonte/MG
+Rua São José, nº 971, Belo Horizonte/MG
+Rua Estrela do Sul, nº 505, Belo Horizonte/MG
+Avenida Evilásio Almeida Miranda, nº 237, Belo Horizonte/MG
+Rua do Retiro, nº 546, Belo Horizonte/MG
+Rua Álvares Filho, nº 922, Belo Horizonte/MG
+Rua Norberto Lessa, nº 825, Belo Horizonte/MG
+Rua Pantanal, nº 861, Belo Horizonte/MG
+Rua Osvaldo Cruz, nº 870, Belo Horizonte/MG
+Rua Professor Clóvis da Silva Alves, nº 871, Belo Horizonte/MG
+Praça Hanleto Godois, nº 242, Belo Horizonte/MG
+Rua Elizete Maria Cardoso, nº 977, Belo Horizonte/MG
+Rua Buriti, nº 65, Belo Horizonte/MG
+Avenida Dom Carlos Carmelo, nº 885, Belo Horizonte/MG
+Travessa Bambus, nº 714, Belo Horizonte/MG
+Rua Arnaldo Gustavo Ritter, nº 9, Belo Horizonte/MG
+Rua Francisco Joaquim dos Santos, nº 541, Santa Luzia/MG
+Beco Hélcio Carvalho de Oliveira, nº 980, Santa Luzia/MG
+Rua Armando Pimentel, nº 298, Santa Luzia/MG
+Rua Dona Henriqueta Vicente de Almeida, nº 385, Juiz de Fora/MG
+Rua Jacinto Godoy Gomes, nº 87, Juiz de Fora/MG
+Praça Construtor João José Mendonça, nº 152, Juiz de Fora/MG
+Rua Ernesto Guevara, nº 745, Teófilo Otoni/MG
+Rua Alan Kardec, nº 867, Teófilo Otoni/MG
+Praça Professor Porcino Rodrigues, nº 509, Teófilo Otoni/MG
+Rua Vinte de Março, nº 83, Uberlândia/MG
+Rua Itália, nº 360, Uberlândia/MG
+Rua Nery Luiz do Prado, nº 321, Uberlândia/MG
+Travessa Quatro de Janeiro, nº 235, Uberlândia/MG
+Quadra Parque Piauí, nº 326, São Paulo/SP
+Rua das Rosas, nº 994, São Paulo/SP
+Rua Vicência Lopes Rodrigues, nº 620, São Paulo/SP
+Rua Quarenta e Quatro, nº 21, São Paulo/SP
+Travessa Quatro, nº 555, São Paulo/SP
+Rua Aeroporto de Imperatriz, nº 156, São Paulo/SP
+Avenida Senador Area Leão, nº 84, São Paulo/SP
+Rua Raimundo Bezerra de Farias, nº 218, São Paulo/SP
+Travessa Cambé, nº 972, São Paulo/SP
+Rua José Aurélio da Silva, nº 606, São Paulo/SP
+Rua Santana, nº 668, São Paulo/SP
+Praça Domício Mendes, nº 89, São Paulo/SP
+Praça Mirassol, nº 421, São Paulo/SP
+Rua Mirante, nº 433, São Paulo/SP
+Rua Afonso Pena, nº 12, São Paulo/SP
+Praça José de Magalhães, nº 557, São Paulo/SP
+Rua Pau Darco, nº 681, São Paulo/SP
+Rua Retiro Saudoso, nº 700, São Paulo/SP
+Avenida Álvaro Serra Castro, nº 528, São Paulo/SP
+Rua Cinco, nº 864, São Paulo/SP
+Rua Chico Conrado, nº 943, São Paulo/SP
+Rua Jamandi, nº 445, São Paulo/SP
+Rua Ponta Negra, nº 242, São Paulo/SP
+Rua do Reservatório, nº 138, São Paulo/SP
+Rua Flamengo, nº 332, Campinas/SP
+Rua Jerusalém, nº 69, Campinas/SP
+Travessa Messias, nº 424, Campinas/SP
+Rua Jacamim, nº 818, Campinas/SP
+Rua Pedro Álvarez Cabral, nº 844, Campinas/SP
+Rua Senhora da Paz, nº 815, Barueri/SP
+Rua Dezoito, nº 224, Barueri/SP
+Rua Vereador Waldemar Gomes, nº 54, Barueri/SP
+Rua Santa Edwiges, nº 365, Barueri/SP
+Viela Macatuba, nº 987, Barueri/SP
+Rua Farol, nº 825, Presidente Prudente/SP
+Rua Caculé, nº 590, Presidente Prudente/SP
+Rua PH 15, nº 624, Presidente Prudente/SP
+Rua Áurea da Silva Senff, nº 373, Presidente Prudente/SP
+Rua Doutor Berardo, nº 69, Presidente Prudente/SP
+Rua 1, nº 833, Itaquaquecetuba/SP
+Rua Seis de Janeiro, nº 251, Itaquaquecetuba/SP
+Rua Campo Grande, nº 131, Itaquaquecetuba/SP
+Rua Visconde de Barbacena, s/n, nº 421, Rio de Janeiro/RJ
+Rua Conrado Hoffmann, nº 242, Rio de Janeiro/RJ
+Avenida Senador Rui Palmeira, nº 24, Rio de Janeiro/RJ
+Rua São Jorge, nº 15, Rio de Janeiro/RJ
+Avenida Venezuela, nº 149, Rio de Janeiro/RJ
+Rua Estrela D'alva, nº 325, Rio de Janeiro/RJ
+Rua Granja do Torto, nº 941, Rio de Janeiro/RJ
+Rua Blasco Ibánez, nº 200, Rio de Janeiro/RJ
+Rua Urano, nº 673, Rio de Janeiro/RJ
+Rua Euclides Souza Brito, nº 48, Rio de Janeiro/RJ
+Rua Alonso Carvalho, nº 165, Rio de Janeiro/RJ
+Rua José João Junqueira, nº 429, Rio de Janeiro/RJ
+Rua Jurandir de Brito, nº 978, Rio de Janeiro/RJ
+Rua Santarém, nº 378, Rio de Janeiro/RJ
+Rua Nelson Carrera, nº 757, Rio de Janeiro/RJ
+Rua Fábio Anchieta, nº 723, Rio de Janeiro/RJ
+Rua Tancredo Neves, nº 140, Nova Iguaçu/RJ
+Rua Paulo Roberto Pereira, nº 163, Nova Iguaçu/RJ
+Travessa São Sebastião, nº 557, Nova Iguaçu/RJ
+Rua Catalão, nº 718, Petrópolis/RJ
+Rua Vicente de Carvalho, nº 562, Petrópolis/RJ
+Rua Itamarandiba, nº 22, Petrópolis/RJ
+Rua Afonso Schafer, nº 911, São Gonçalo/RJ
+Rua Trento, nº 851, São Gonçalo/RJ
+Rua Papaya, nº 730, São Gonçalo/RJ
+Rua Diamantina, nº 750, São Gonçalo/RJ
