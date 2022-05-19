@@ -1,9 +1,11 @@
 # projetoVeiculoPython_SQL
 Realização de projeto para fixação de conceitos em Python e SQL
 
+[Link para o projeto no Google Colab](https://colab.research.google.com/github/GabrielSouza-git/projetoVeiculoPython_SQL/blob/main/projetoVeiculoPython_SQL.ipynb)
 ### 1 - Tecnologias Utilizadas:
 * SQLite
 * Python
+* Google Colab
 
 ### 2 - Modelagem de Dados:
 
